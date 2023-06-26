@@ -1,0 +1,5 @@
+---
+- name: Instalando zabbix-server
+  apt: 
+    name: 
+      - zabbix-server
